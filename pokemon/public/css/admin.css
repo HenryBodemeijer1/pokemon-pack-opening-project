@@ -1,0 +1,12 @@
+body{
+    background: url("/img/Lucario.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-style:  white;
+    background-attachment: fixed;
+}
+
+#logo{
+    width: 180px;
+    height: 80px;
+}
